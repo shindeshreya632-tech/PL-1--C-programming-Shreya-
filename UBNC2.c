@@ -1,3 +1,8 @@
+/*
+Program (1): Write a program to make use of basic I/O functions using different data types.
+Solution (2) → User Define Value
+*/
+
 #include <stdio.h>
 
 int main()
